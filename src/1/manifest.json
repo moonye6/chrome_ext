@@ -1,0 +1,11 @@
+{  
+  "name": "test 1",  
+  "version": "0.1.0",  
+  "description": "test 1~",  
+  "browser_action": {  
+    "default_icon": "icon.png" ,
+    "default_title": "test 1",
+    "default_popup": "popup.html"
+  },
+  "manifest_version":2  
+} 
